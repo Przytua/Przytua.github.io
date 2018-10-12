@@ -1,0 +1,31 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "296RV4WDL4.com.vrenetic.vresh",
+                "paths": [ "*" ]
+            },
+            {
+                "appID": "296RV4WDL4.com.vrenetic.vresh-staging",
+                "paths": [ "*" ]
+            },
+            {
+                "appID": "296RV4WDL4.com.vrenetic.vresh-dev",
+                "paths": [ "*" ]
+            },
+            {
+                "appID": "296RV4WDL4.com.vrenetic.vresh-cpp-dev",
+                "paths": [ "*" ]
+            },
+            {
+                "appID": "296RV4WDL4.com.vrenetic.vresh-demo",
+                "paths": [ "*" ]
+            },
+            {
+                "appID": "296RV4WDL4.com.vrenetic.vresh-sandbox",
+                "paths": [ "*" ]
+            }
+        ]
+    }
+}
